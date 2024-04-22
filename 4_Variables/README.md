@@ -13,6 +13,6 @@
 
 **➡️ 기존 데이터프레임에 merge한 결과: `final_enco_업권분류_파생변수.csv`**
 
-**➡️ 업권별 클러스터링 (cosine similarity): `코사인_생명보험.csv`, `코사인_손해보험.csv`, `코사인_신협vv.csv`**
+**➡️ 파생변수를 포함한 업권별 클러스터링 (cosine similarity): `코사인_생명보험.csv`, `코사인_손해보험.csv`, `코사인_신협vv.csv`**
 
 </br>
